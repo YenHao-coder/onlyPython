@@ -1,0 +1,4 @@
+google|amdy@email.com|test001 
+facebook|amdy@email.com|test002 
+amazon|andy@email.com|test00002 
+taobao|andy@email.com|test000 
